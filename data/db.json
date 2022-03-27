@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "title": "Create new homepage banner",
+      "details": "lorem good bye",
+      "complete": true,
+      "id": 1
+    },
+    {
+      "title": "Make marketing email",
+      "details": "loremllkhjk",
+      "complete": true,
+      "id": 2
+    },
+    {
+      "title": "test2",
+      "details": "c;bjfdop fd gfdk gskh gsfdujh p",
+      "complete": true,
+      "id": 3
+    }
+  ],
+  "projects2": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "details": "lorem good bye",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "lorem good bye too",
+      "complete": true
+    }
+  ]
+}
